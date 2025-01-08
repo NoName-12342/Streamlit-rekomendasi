@@ -1,8 +1,0 @@
-pandas
-streamlit
-numpy
-python-dateutil
-datetime
-seaborn
-matplotlib.pyplot
-plotly.express
